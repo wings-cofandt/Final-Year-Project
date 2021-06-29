@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>moods.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>moods3.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>moods2.png</file>
+  </qresource>
+</RCC>
