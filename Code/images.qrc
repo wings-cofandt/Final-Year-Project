@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>ai.png</file>
+    <file>MachineLearning.jpg</file>
+    <file>MachineLearning.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>face.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>face.jpg</file>
+    <file>ai.png</file>
+  </qresource>
+</RCC>
