@@ -1,4 +1,4 @@
-# Personality Predictoion
+# Personality Prediction using Deep Learning
 <!DOCTYPE HTML>
 <!-- THE DOCTYPE tells the browser what type of webpage to render, the doctype used in this website is HTML5 which is the most recent HTML. -->
 <html lang="en-US">
@@ -8,7 +8,7 @@
 <!-- THIS ACTUAL CONTENT BEGINS HERE...this is called a comment. which can only be seen when viewing the source code. This text CANNOT be seen by the browser. Its helpful when you need to place notes, comments or reminders in your code -->
 	<header>
 		<div class="header">
-			<h1>Welcome</h1>
+			<h1>Welcome to my Final Year Project Repository</h1>
 		</div>
 	</header>
 	<!-- END HEADER | the header element in new to HTML5 -->
