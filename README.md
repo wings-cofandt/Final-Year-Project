@@ -4,14 +4,7 @@
 <html lang="en-US">
 
 <body>
-	<div class="container">
-<!-- THIS ACTUAL CONTENT BEGINS HERE...this is called a comment. which can only be seen when viewing the source code. This text CANNOT be seen by the browser. Its helpful when you need to place notes, comments or reminders in your code -->
-	<header>
-		<div class="header">
-			<h1>Welcome to my Final Year Project's Repository</h1>
-		</div>
-	</header>
-	<!-- END HEADER | the header element in new to HTML5 -->
+	
 	
 		<div class="feature">
 			<h3>INTRODUCTION</h3>
