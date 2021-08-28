@@ -1,6 +1,6 @@
 # Personality Prediction using Deep Learning
 <body>
-<h3>INTRODUCTION</h3><p style="text-align: justify">				
+<h3>INTRODUCTION</h3><p text-align= justify>				
 This system is a desktop application which predicts the personalities of different people. Particularly, adopting methods of predicting personality traits based on core 
 concepts and algorithms of deep learning are the main objectives. Moreover, face detection and recognition along with expressions prediction are also included. This 
 system is based upon Agile methodology and the technologies that are used in this system are Python, OpenCV, Tensorflow, Keras, VGG-16, NN, Haarcascade, Naive Bayes,
