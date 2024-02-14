@@ -1,25 +1,46 @@
-# Personality Prediction using Deep Learning
-<!DOCTYPE HTML>
-<!-- THE DOCTYPE tells the browser what type of webpage to render, the doctype used in this website is HTML5 which is the most recent HTML. -->
-<html lang="en-US">
+# Personality Prediction System
 
-<body>
-	<div class="container">
-<!-- THIS ACTUAL CONTENT BEGINS HERE...this is called a comment. which can only be seen when viewing the source code. This text CANNOT be seen by the browser. Its helpful when you need to place notes, comments or reminders in your code -->
-	<header>
-		<div class="header">
-			<h1></h1>
-		</div>
-	</header>
-	<!-- END HEADER | the header element in new to HTML5 -->
-		<div class="main">
-			<h2></h2>
-		</div>
-		<div class="feature">
-			<h3>INTRODUCTION</h3>
-			<p>This system is a desktop application which uses both Text and Image processing to predict the personalities of different people. Particularly, adopting methods of predicting personality traits based on core concepts and algorithms of deep learning are the main objectives. Moreover, face detection and recognition along with expressions prediction are also included. This system is based upon Agile methodology and the technologies that are used in this system are Python, OpenCV, Tensorflow, Keras, VGG-16, NN, Haarcascade, Naive Bayes, SVM and PyQt5. Many methods are used to assess a person's character and personality. Some are through the body movements, body language, handwriting and signatures. Assessing a person's character and personality will be the main objective in order to produce a better system to predict personalities. Some popular measures of personality are not useful because they are unreliable or invalid. The proposed system will enable a more effective way to predicate the personality of a person by using the machine and deep learning algorithms with the help of images and textual datasets.</p>
-			<!-- LOREM IPSUM is universally used. Lorem ipsum is dummy text, it does't really mean anything. Its used to fill space or for mockups. -->
-		</div>
+
+
+## Overview
+The Personality Prediction System is a comprehensive desktop application designed to analyze and predict personality traits of individuals using a combination of text and image processing techniques. The system focuses on leveraging advanced deep learning algorithms to provide accurate personality assessments, alongside features such as face detection, recognition, and expression prediction. Developed following Agile methodology principles, the system offers a robust and efficient solution for personality analysis.
+
+## Objectives
+| Objective | Description |
+|-----------|-------------|
+| Implement cutting-edge algorithms | Utilize state-of-the-art deep learning algorithms for personality prediction. |
+| Incorporate text and image processing | Combine text and image processing methodologies for comprehensive analysis. |
+| Enhance accuracy with face detection | Utilize face detection and recognition techniques to improve accuracy. |
+| Predict facial expressions | Analyze facial expressions to provide additional insights into personality traits. |
+| Develop user-friendly interface | Create an intuitive interface using PyQt5 for seamless interaction. |
+| Ensure scalability and flexibility | Design the system to accommodate future enhancements and improvements. |
+
+## Technologies Used
+| Technology | Description |
+|------------|-------------|
+| Python | Programming language used for development. |
+| OpenCV | Library for computer vision and image processing tasks. |
+| TensorFlow | Deep learning framework for building and training models. |
+| Keras | High-level neural networks API, compatible with TensorFlow. |
+| VGG-16 | Pre-trained convolutional neural network model for image recognition. |
+| PyQt5 | Python bindings for the Qt application framework, used for GUI development. |
+| Haarcascade | XML-based classifier used for object detection, particularly faces. |
+| Naive Bayes | Probabilistic classifier used for predictive modeling. |
+| SVM | Support Vector Machines, a supervised learning algorithm for classification tasks. |
+
+## Features
+1. **Text Analysis:** Utilize natural language processing techniques to analyze textual data, including body language, handwriting, and signatures.
+2. **Image Processing:** Employ deep learning algorithms to process images and extract facial features for personality assessment.
+3. **Face Detection and Recognition:** Implement face detection and recognition algorithms to identify individuals and analyze facial expressions.
+4. **Personality Prediction:** Utilize machine learning models trained on extensive datasets to predict personality traits with high accuracy.
+5. **User Interface:** Develop an intuitive and user-friendly interface using PyQt5 to facilitate easy interaction and visualization of results.
+
+## Goals
+- Provide a reliable and accurate system for personality prediction based on advanced machine learning techniques.
+- Enable users to gain insights into personality traits using both textual and visual data.
+- Offer a scalable and customizable solution that can be adapted to various domains and applications.
+- Continuously improve and enhance the system based on user feedback and emerging technologies.
+
 
 
 ![image](https://user-images.githubusercontent.com/56802115/131219217-7deea5bb-0ded-4b85-aa85-652549d1679a.png)
@@ -37,3 +58,5 @@
 ![image](https://user-images.githubusercontent.com/56802115/131219341-1de2556d-d0a3-48a8-8255-133328ee910f.png)
 
 
+## Conclusion
+The Personality Prediction System represents a significant advancement in the field of personality analysis, combining state-of-the-art technologies with user-friendly design principles. By leveraging machine and deep learning algorithms, the system offers a comprehensive solution for predicting personality traits based on textual and visual cues.
